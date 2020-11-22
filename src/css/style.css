@@ -16,15 +16,12 @@ body {
 
 .cell {
   box-sizing: border-box;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 
   width: 250px;
   height: 250px;
 
   border: solid 1px;
-}
-
-.active {
-  background-image: url("../img/goblin.png");
-  background-repeat: no-repeat;
-  background-position: center;
 }
