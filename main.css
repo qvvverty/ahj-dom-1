@@ -1,0 +1,1 @@
+body{color:#999}.field{flex-wrap:wrap;margin-left:auto;margin-right:auto;width:500px;height:500px}.cell,.field{display:flex;border:1px solid}.cell{box-sizing:border-box;align-items:center;justify-content:center;width:250px;height:250px}
